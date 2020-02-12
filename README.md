@@ -2,6 +2,8 @@
 
 ### Instructions
 
+#### Regenerate data (optional)
+
 Make a virtual environment 
 `conda create --name spgf python=3.7`
 
@@ -11,4 +13,5 @@ Install the requirements
 Run the experiments used to make figure 2
 `bash all_experiments.py`
 
+#### Make figures
 The notebook `figures.ipynb` was used to generate both figures in the paper
